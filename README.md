@@ -1,5 +1,5 @@
-## mousemover
-#Mouse mover powershell script for those days
+## MouseMover
+# Mouse mover powershell script for those days
 <br>For the above scripts to run, do the following:<br>
 a) Paste either of the above scripts into notepad<br>
 b) Save the file with .ps1 extension<br>
